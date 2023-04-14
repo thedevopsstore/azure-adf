@@ -1,0 +1,9 @@
+{
+	"name": "synapseadfdevops",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "66e3251f-b005-4875-80f5-9f67dcc37df3",
+		"tenantId": "50710cbb-9bb8-4308-b7a3-c1a7571ff4f1"
+	}
+}
