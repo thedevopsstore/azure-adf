@@ -11,6 +11,15 @@
 		"AzureBlobStorage22_connectionString": {
 			"value": ""
 		},
+		"AzureMySql1_connectionString": {
+			"value": ""
+		},
+		"AzureKeyVault1_properties_typeProperties_baseUrl": {
+			"value": "https://salesmysql.vault.azure.net/"
+		},
+		"AzureKeyVault2_properties_typeProperties_baseUrl": {
+			"value": "https://salesmysql.vault.azure.net/"
+		},
 		"containerUri": {
 			"value": ""
 		},
