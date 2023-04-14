@@ -1,0 +1,18 @@
+{
+	"name": "DestinationDataset_0gv",
+	"properties": {
+		"linkedServiceName": {
+			"referenceName": "AzureBlobStorage22",
+			"type": "LinkedServiceReference"
+		},
+		"annotations": [],
+		"type": "Binary",
+		"typeProperties": {
+			"location": {
+				"type": "AzureBlobStorageLocation",
+				"folderPath": "output",
+				"container": "adf"
+			}
+		}
+	}
+}
