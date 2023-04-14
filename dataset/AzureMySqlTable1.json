@@ -7,6 +7,9 @@
 		},
 		"annotations": [],
 		"type": "AzureMySqlTable",
-		"schema": []
+		"schema": [],
+		"typeProperties": {
+			"tableName": "emp"
+		}
 	}
 }
